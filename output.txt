@@ -1,0 +1,350 @@
+Source vertex 1 is visited
+Vertex 0 is visited at level 1
+Vertex 3 is visited at level 1
+Edge <1,0> is traversed
+Edge <1,3> is traversed
+Vertex 2 is visited at level 2
+Vertex 4 is visited at level 2
+Edge <3,2> is traversed
+Edge <3,4> is traversed
+Vertex 6 is visited at level 3
+Vertex 9 is visited at level 3
+Edge <4,6> is traversed
+Vertex 5 is visited at level 4
+Vertex 7 is visited at level 4
+Vertex 11 is visited at level 4
+Edge <4,9> is traversed
+Vertex 8 is visited at level 4
+Vertex 10 is visited at level 4
+Edge <6,5> is traversed
+Edge <6,7> is traversed
+Edge <6,11> is traversed
+Vertex 13 is visited at level 5
+Vertex 16 is visited at level 5
+Edge <9,8> is traversed
+Edge <9,10> is traversed
+Edge <11,13> is traversed
+Vertex 12 is visited at level 6
+Vertex 14 is visited at level 6
+Vertex 15 is visited at level 6
+Edge <11,16> is traversed
+Vertex 18 is visited at level 6
+Edge <13,12> is traversed
+Edge <13,14> is traversed
+Edge <13,15> is traversed
+Edge <16,18> is traversed
+Vertex 21 is visited at level 7
+Edge <18,21> is traversed
+Vertex 17 is visited at level 8
+Vertex 20 is visited at level 8
+Vertex 19 is visited at level 8
+Edge <21,17> is traversed
+Edge <21,20> is traversed
+Edge <21,19> is traversed
+cost  = 8
+Source vertex 17 is visited
+Vertex 21 is visited at level 1
+Edge <17,21> is traversed
+Vertex 18 is visited at level 2
+Vertex 20 is visited at level 2
+Vertex 19 is visited at level 2
+Edge <21,18> is traversed
+Vertex 16 is visited at level 3
+Edge <21,20> is traversed
+Edge <21,19> is traversed
+Edge <18,16> is traversed
+Vertex 11 is visited at level 4
+Edge <16,11> is traversed
+Vertex 6 is visited at level 5
+Vertex 13 is visited at level 5
+Edge <11,6> is traversed
+Vertex 4 is visited at level 6
+Vertex 5 is visited at level 6
+Vertex 7 is visited at level 6
+Edge <11,13> is traversed
+Vertex 12 is visited at level 6
+Vertex 14 is visited at level 6
+Vertex 15 is visited at level 6
+Edge <6,4> is traversed
+Vertex 3 is visited at level 7
+Vertex 9 is visited at level 7
+Edge <6,5> is traversed
+Edge <6,7> is traversed
+Edge <13,12> is traversed
+Edge <13,14> is traversed
+Edge <13,15> is traversed
+Edge <4,3> is traversed
+Vertex 1 is visited at level 8
+Vertex 2 is visited at level 8
+Edge <4,9> is traversed
+Vertex 8 is visited at level 8
+Vertex 10 is visited at level 8
+Edge <3,1> is traversed
+Vertex 0 is visited at level 9
+Edge <3,2> is traversed
+Edge <9,8> is traversed
+Edge <9,10> is traversed
+Edge <1,0> is traversed
+source = 17 dest = 0
+query vertex is 0
+query vertex is 1
+query vertex is 3
+Vertex 2 is visited at depth 1
+query vertex is 4
+Vertex 9 is visited at depth 1
+Vertex 8 is visited at depth 2
+Vertex 10 is visited at depth 2
+query vertex is 6
+Vertex 5 is visited at depth 1
+Vertex 7 is visited at depth 1
+query vertex is 11
+Vertex 13 is visited at depth 1
+Vertex 12 is visited at depth 2
+Vertex 14 is visited at depth 2
+Vertex 15 is visited at depth 2
+query vertex is 16
+query vertex is 18
+query vertex is 21
+Vertex 20 is visited at depth 1
+Vertex 19 is visited at depth 1
+query vertex is 17
+curr_max is 2
+path from 4 to 8 is added to A
+query vertex is 0
+query vertex is 1
+query vertex is 3
+Vertex 2 is visited at depth 1
+query vertex is 4
+query vertex is 6
+Vertex 5 is visited at depth 1
+Vertex 7 is visited at depth 1
+query vertex is 9
+Vertex 10 is visited at depth 1
+query vertex is 8
+query vertex is 11
+Vertex 13 is visited at depth 1
+Vertex 12 is visited at depth 2
+Vertex 14 is visited at depth 2
+Vertex 15 is visited at depth 2
+query vertex is 16
+query vertex is 18
+query vertex is 21
+Vertex 20 is visited at depth 1
+Vertex 19 is visited at depth 1
+query vertex is 17
+curr_max is 2
+path from 11 to 12 is added to A
+query vertex is 0
+query vertex is 1
+query vertex is 3
+Vertex 2 is visited at depth 1
+query vertex is 4
+query vertex is 6
+Vertex 5 is visited at depth 1
+Vertex 7 is visited at depth 1
+query vertex is 9
+Vertex 10 is visited at depth 1
+query vertex is 8
+query vertex is 11
+query vertex is 13
+Vertex 14 is visited at depth 1
+Vertex 15 is visited at depth 1
+query vertex is 12
+query vertex is 16
+query vertex is 18
+query vertex is 21
+Vertex 20 is visited at depth 1
+Vertex 19 is visited at depth 1
+query vertex is 17
+curr_max is 1
+path from 3 to 2 is added to A
+query vertex is 0
+query vertex is 1
+query vertex is 3
+query vertex is 2
+query vertex is 4
+query vertex is 6
+Vertex 5 is visited at depth 1
+Vertex 7 is visited at depth 1
+query vertex is 9
+Vertex 10 is visited at depth 1
+query vertex is 8
+query vertex is 11
+query vertex is 13
+Vertex 14 is visited at depth 1
+Vertex 15 is visited at depth 1
+query vertex is 12
+query vertex is 16
+query vertex is 18
+query vertex is 21
+Vertex 20 is visited at depth 1
+Vertex 19 is visited at depth 1
+query vertex is 17
+curr_max is 1
+path from 6 to 5 is added to A
+query vertex is 0
+query vertex is 1
+query vertex is 3
+query vertex is 2
+query vertex is 4
+query vertex is 6
+Vertex 7 is visited at depth 1
+query vertex is 5
+query vertex is 9
+Vertex 10 is visited at depth 1
+query vertex is 8
+query vertex is 11
+query vertex is 13
+Vertex 14 is visited at depth 1
+Vertex 15 is visited at depth 1
+query vertex is 12
+query vertex is 16
+query vertex is 18
+query vertex is 21
+Vertex 20 is visited at depth 1
+Vertex 19 is visited at depth 1
+query vertex is 17
+curr_max is 1
+path from 6 to 7 is added to A
+query vertex is 0
+query vertex is 1
+query vertex is 3
+query vertex is 2
+query vertex is 4
+query vertex is 6
+query vertex is 5
+query vertex is 7
+query vertex is 9
+Vertex 10 is visited at depth 1
+query vertex is 8
+query vertex is 11
+query vertex is 13
+Vertex 14 is visited at depth 1
+Vertex 15 is visited at depth 1
+query vertex is 12
+query vertex is 16
+query vertex is 18
+query vertex is 21
+Vertex 20 is visited at depth 1
+Vertex 19 is visited at depth 1
+query vertex is 17
+curr_max is 1
+path from 9 to 10 is added to A
+query vertex is 0
+query vertex is 1
+query vertex is 3
+query vertex is 2
+query vertex is 4
+query vertex is 6
+query vertex is 5
+query vertex is 7
+query vertex is 9
+query vertex is 8
+query vertex is 10
+query vertex is 11
+query vertex is 13
+Vertex 14 is visited at depth 1
+Vertex 15 is visited at depth 1
+query vertex is 12
+query vertex is 16
+query vertex is 18
+query vertex is 21
+Vertex 20 is visited at depth 1
+Vertex 19 is visited at depth 1
+query vertex is 17
+curr_max is 1
+path from 13 to 14 is added to A
+query vertex is 0
+query vertex is 1
+query vertex is 3
+query vertex is 2
+query vertex is 4
+query vertex is 6
+query vertex is 5
+query vertex is 7
+query vertex is 9
+query vertex is 8
+query vertex is 10
+query vertex is 11
+query vertex is 13
+Vertex 15 is visited at depth 1
+query vertex is 12
+query vertex is 14
+query vertex is 16
+query vertex is 18
+query vertex is 21
+Vertex 20 is visited at depth 1
+Vertex 19 is visited at depth 1
+query vertex is 17
+curr_max is 1
+path from 13 to 15 is added to A
+query vertex is 0
+query vertex is 1
+query vertex is 3
+query vertex is 2
+query vertex is 4
+query vertex is 6
+query vertex is 5
+query vertex is 7
+query vertex is 9
+query vertex is 8
+query vertex is 10
+query vertex is 11
+query vertex is 13
+query vertex is 12
+query vertex is 14
+query vertex is 15
+query vertex is 16
+query vertex is 18
+query vertex is 21
+Vertex 20 is visited at depth 1
+Vertex 19 is visited at depth 1
+query vertex is 17
+curr_max is 1
+path from 21 to 20 is added to A
+query vertex is 0
+query vertex is 1
+query vertex is 3
+query vertex is 2
+query vertex is 4
+query vertex is 6
+query vertex is 5
+query vertex is 7
+query vertex is 9
+query vertex is 8
+query vertex is 10
+query vertex is 11
+query vertex is 13
+query vertex is 12
+query vertex is 14
+query vertex is 15
+query vertex is 16
+query vertex is 18
+query vertex is 21
+Vertex 19 is visited at depth 1
+query vertex is 17
+query vertex is 20
+curr_max is 1
+path from 21 to 19 is added to A
+1
+10
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
